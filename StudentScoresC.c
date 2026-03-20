@@ -1,7 +1,7 @@
 /* StudentScoresC.c
    Practical 6, Part 1 (c)
    Finding maximum and minimum scores
-   @author your name */
+   @author Shirish Maharjan */
 #include <stdio.h>
 
 #define NUM_STUDENTS 5
