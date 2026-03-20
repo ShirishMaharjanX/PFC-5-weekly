@@ -1,7 +1,7 @@
 /* StudentScoresB.c
    Practical 6, Part 1 (b)
    Using constants for array size
-   @author Shirish Maharjan */
+*/
 #include <stdio.h>
 
 #define NUM_STUDENTS 5

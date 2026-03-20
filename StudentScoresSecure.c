@@ -1,7 +1,7 @@
 /* StudentScoresSecure.c
    Practical 6, Part 3 (a)
    Secure array operations with comprehensive validation
-   @author Shirish Maharjan */
+*/
 #include <stdio.h>
 #include <stdbool.h>
 #include <limits.h>
