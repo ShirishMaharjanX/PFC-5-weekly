@@ -1,6 +1,7 @@
 /* StudentScoresSearch.c
    Practical 6, Part 2 (b)
    Searching in arrays
+   Shirish Maharjan
 */
 #include <stdio.h>
 #define NUM_STUDENTS 5

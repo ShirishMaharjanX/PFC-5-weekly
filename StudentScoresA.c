@@ -1,6 +1,7 @@
 /* StudentScoresA.c
    Practical 6, Part 1 (a)
    Basic array operations - calculating average score
+   Shirish Maharjan
 */
 #include <stdio.h>
 int main() {

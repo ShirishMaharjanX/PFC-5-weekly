@@ -1,6 +1,7 @@
 /* StudentScoresSort.c
    Practical 6, Part 3 (b)
    Enhanced security with array sorting
+   Shirish Maharjan
 */
 #include <stdio.h>
 #include <stdbool.h>

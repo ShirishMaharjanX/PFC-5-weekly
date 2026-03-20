@@ -1,6 +1,7 @@
 /* StudentScoresC.c
    Practical 6, Part 1 (c)
    Finding maximum and minimum scores
+   Shirish Maharjan
 */
 #include <stdio.h>
 

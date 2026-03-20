@@ -1,6 +1,7 @@
 /* StudentScoresModular.c
    Practical 6, Part 2 (a)
    Modular array operations with functions
+   Shirish Maharjan
 */
 #include <stdio.h>
 #define NUM_STUDENTS 5
